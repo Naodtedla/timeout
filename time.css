@@ -1,0 +1,61 @@
+
+body{
+    font-size: 1.25rem;
+    color: #002e2c;
+    margin: 0;
+}
+
+h1{
+    font-size: 4rem;
+    margin: 2rem 2.5rem;
+}
+span{
+    color:#f26419 ;
+}
+h2{
+    font-size: 2rem;
+}
+p{
+    font-size: 1.6rem;
+}
+
+.container
+{
+    width: 94%;
+    max-width: 980%;
+    margin: 0 auto;
+}
+.colums
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 2em;
+}
+
+.col-1
+{
+width: 70%;
+}
+.col-2
+{
+width: 25%;
+}
+.col-3
+{
+  width:45%;
+}
+.col-bg
+{
+    background-color: #002e2c;
+    color: #fff;
+    padding: 0 2rem;
+    border-radius: 3rem;
+}
+.col-gg
+{
+    background-color: #f26419;
+    color: #fff;
+    padding: 0 2rem;
+    margin: 3rem 3rem;
+    border-radius: 3rem;
+}

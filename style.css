@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:ital,wght@0,300;0,400;1,400&display=swap');
+
+*
+{
+    font-family: sans-serif;
+    padding: 0%; 
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: #cdcdcd;
+}
+
+li,a,button
+{
+    font-size: 1.5rem;
+    color: #002e2c;
+    list-style: none;
+    text-decoration: none;
+
+}
+header{
+display: flex;
+justify-content: space-between;
+cursor: pointer;
+padding: 30px 10%;
+
+}
+h1{
+    font-size: 2rem;
+    color: #212922;
+    font: bolder;
+    
+}
+
+h1:hover{
+color: #f26419;
+}
+li{
+    display: inline-block;
+    padding-right:5rem;
+}
+
+li a{
+    transition: all 0.3s ease 0s;
+}
+li a:hover{
+    color: #f26419;
+}
+button
+{
+    padding: .9rem 3rem;
+    transition: all 0.3s ease 0s;
+    color: #cdcdcd;
+    background-color: #002e2c;
+    border-radius: 1rem;
+}
+
+button:hover
+{
+background-color: #f26419;
+}
+
+
+span{
+    color: #f26419;
+}
+#all
+{
+    font-size: 1.5rem;
+    margin: 15rem 30rem;  
+}
+h2
+{
+    text-align: center;
+    margin-bottom: .9rem;
+}
+#all p{
+    line-height: 1.8rem;
+    color: #002e2c;
+}
+.main
+{
+    display: flex;
+    justify-content: center;
+    /* align-items: flex-start; */
+    
+    /* margin: 20px 80px; */
+}
+.focus
+{
+    flex-direction: row;
+    color: #002e2c;
+    text-align: center;
+}
+.input
+{
+    margin: 1rem 1rem;
+    padding: .9rem .9rem;
+    border: #002e2c  solid;
+    border-radius: 10rem;
+    background-color:#cdcdcd ;
+}
+ 
+
+
+
+
+.input:hover{
+    background-color: #212922;
+}
+
+
+.submit
+{
+    margin: 3rem 0;
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 1.5rem 5rem;
+    border-radius: 10rem;
+    background-color:#f26419 ;
+    transition: all 0.3s ease 0s;
+}
+.submit:hover
+{
+    background-color: #002e2c;
+}
+
+
+/* do the span, finishe the bg image, finishe the form and input, write the subtitle under the logo */
+
+
+
+/*
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: #363a38; 
+}
+/* body 
+{
+    background-image: url("cafe.3.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+ }   */
+/*li,a,button{
+    color: rgb(26, 12, 12);
+    font-size:1.3rem;
+    list-style: none;
+    text-decoration: none;
+    font: bold;
+/* }
+ul
+{
+    list-style: none;
+}
+    
+h1
+{
+    letter-spacing: .60rem;
+    color: #3c0919;
+}
+    
+
+header
+{
+display: flex;
+justify-content: space-between;
+cursor: pointer;
+padding: 30px 10%;
+
+}
+li{
+    display: inline-block;
+    padding-right: 6rem;
+}
+li a
+{
+transition: all 0.3s ease 0s ;
+}
+
+li a:hover
+{
+color: rgb(255, 255, 255);
+}
+
+button{
+    color: azure;
+    background-color: rgb(97, 93, 78);
+    padding: .80rem 2rem;
+    border: none;
+    border-radius: 2rem;
+    transition: all 0.3s ease 0s ;
+}
+button:hover
+{
+    background-color: rgb(27, 27, 23);
+}
+
+.container
+{
+    font-size: 1.5rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+   /* align-content: center;
+    margin: 20rem 10%;
+}
+h2
+{
+    color: #3c0919;
+    margin-bottom:1rem;
+}
+p{
+    line-height: 2rem;
+    color: #3c0919;
+} */
+

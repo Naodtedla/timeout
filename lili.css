@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:ital,wght@0,300;0,400;1,400&display=swap');
+
+
+
+body
+{
+    font-size: 1.125rem;
+    color: #707070;
+    margin: 0;
+}
+
+.container
+{
+    width: 95%;
+    max-width:980px ;
+    margin: 0 auto;
+}
+
+.colums
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 1em 0;
+
+}
+
+h1{
+font-size: 2.5rem;
+color: #212624;
+text-align: center;
+}
+
+ span{
+    color: brown;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+
+.col{
+    width:21%;
+}
+.col-2
+{
+    width: 45%;
+}
+.col-3
+{
+width: 70%;
+}
+
+.col-bg
+{
+    background-color: #212624;
+    color: #fff;
+    padding: 0 1em;
+}
+
+
+
+
+
+
+/* body{
+    font-size: 1.125rem;
+    color: #707070;
+    margin: 0%;
+}
+h1{
+    font-size: 3rem;
+    color: #212624;
+     text-align: center;
+}
+h1 span{
+    color: chocolate;
+}
+h2{
+    font-size: 1.5rem;
+}
+
+p
+{
+    margin-top: 0;
+}
+
+.container
+{
+    width: 98%;
+    max-width: 980px;
+    margin: 0 auto;
+}
+.colums
+{
+    display: flex;
+    margin: 1em 0;
+    justify-content: space-between;
+
+}
+
+img{
+    max-width:100% ;
+}
+
+
+.col-1
+{
+width: 25%;
+}
+
+.col-2
+{
+width: 45%;
+}
+.col-3
+{
+width: 70%;
+}
+
+.col-bg
+{
+    background-color:#212624 ;
+    columns: #fff;
+    padding: 1em;
+}
+
+ */
+
+
+
+/* 
+body{
+    font-size: 1.125rem;
+    color: #707070;
+    margin: 0%;
+} */
+/*typograph */
+/* h1{
+    font-size: 3rem;
+    color: #212624;
+    text-align: center;
+}
+
+h1 span{
+    color: #b7832f;
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+p{
+    margin-top: 0;
+}
+
+/* layout */
+ /*img{
+    max-width: 100%;
+}
+.container
+{
+    width: 95%;
+    max-width: 980px;
+    margin: 0 auto;
+}
+.colums
+{
+    display: flex;
+    margin: 1em 0;
+    justify-content: space-between;
+}
+
+.col-1
+{
+width:20% ;
+}
+.col-2
+{
+width:45% ;
+}
+.col-3
+{
+width:70% ;
+}
+
+
+.col-bg
+{
+    background-color: #212624;
+    color: #fff;
+    padding: 1em;
+} */
